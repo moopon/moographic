@@ -6,8 +6,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 <title>Icon｜Design｜ムーグラフィック[moographic]-イラストレーション/ウェブデザイン</title>
 <meta name="description" content="イラストレーターのムーグラフィック[moographic]のウェブデザインやDTPデザインなどについて紹介します。">
-<link rel="icon" href="/img/favicon.ico">	
 <meta name="robots" content="noindex" />	
+<link rel="icon" href="/img/favicon.ico">		
 <link rel="stylesheet" href="/css/reset.css">
 <link rel="stylesheet" href="/css/style.css">
 <link href="https://fonts.googleapis.com/css2?family=Mitr:wght@400&display=swap" rel="stylesheet">
@@ -17,6 +17,7 @@
 </head>
 
 <body class="fadeout">
+<?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/google_tag-manager.php'); ?>	
 <div class="wrapper">
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/header.php'); ?>
 	

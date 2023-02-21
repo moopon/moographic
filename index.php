@@ -15,33 +15,42 @@
 </head>
 
 <body>
+<?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/google_tag-manager.php'); ?>	
 <div class="wrapper">
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/header.php'); ?>
 	
 <section id="gallery">
+	
 	<div class="container-five01">
-		<div class="item box01"><a href="/illustration/ambush.php"><img src="img/illustration/thum_ambush.png" alt=""></a></div>
-		<div class="item box02"><a href="/illustration/summer-girl_02.php"><img src="img/illustration/thum_summergirl_02.png" alt=""></a></div>
-		<div class="item box03"><a href="illustration/midsummer-diner.php"><img src="img/illustration/thum_midsummer-diner.png" alt=""></a></div>
-		<div class="item box04"><a href="/illustration/chinese-food.php"><img src="img/illustration/thum_chinese_food.png" alt=""></a></div>
-		<div class="item box05"><a href="/illustration/halloween.php"><img src="img/illustration/thum_halloween.png" alt=""></a></div>
+		<div class="item box01"><a href="/illustration/yoru.php"><img src="img/illustration/thum_yoru.png" alt="夜　a night owl"></a></div>
+		<div class="item box02"><a href="/illustration/merry_christmas.php"><img src="img/illustration/thum_merry_christmas.png" alt="merry_christmas"></a></div>
+		<div class="item box03"><a href="illustration/morning-coffee.php"><img src="img/illustration/thum_morning-coffee.png" alt="morning-coffee"></a></div>
+		<div class="item box04"><a href="/illustration/morning-jog.php"><img src="img/illustration/thum_morning-jog.png" alt="morning-jog"></a></div>
+		<div class="item box05"><a href="/illustration/bouquet.php"><img src="img/illustration/thum_bouquet.png" alt="bouquet"></a></div>
+	</div>
+	<div class="container-five02">
+		<div class="item box06"><a href="illustration/midsummer-diner.php"><img src="img/illustration/thum_midsummer-diner.png" alt="midsummer-diner"></a></div>
+		<div class="item box07"><a href="/illustration/summer-girl_02.php"><img src="img/illustration/thum_summergirl_02.png" alt="Summer girl #02"></a></div>
+		<div class="item box08"><a href="/illustration/ambush.php"><img src="img/illustration/thum_ambush.png" alt="ambush"></a></div>
+		<div class="item box09"><a href="/illustration/chinese-food.php"><img src="img/illustration/thum_chinese_food.png" alt="chinese_food"></a></div>
+		<div class="item box10"><a href="/illustration/halloween.php"><img src="img/illustration/thum_halloween.png" alt="Happy halloween!"></a></div>
 	</div>
 	<div class="container-four">
-		<div class="item"><a href="/illustration/asahi-chukousei.php"><img src="img/illustration/thum_asahichuukousei.png" alt=""></a></div>
-		<div class="item"><a href="/illustration/manmaru.php"><img src="img/illustration/thum_manmaru.png" alt=""></a></div>
-		<div class="item"><a href="/illustration/conceptwork.php"><img src="img/illustration/thum_conceptwork.png" alt=""></a></div>
-		<div class="item"><a href="/illustration/hona.php"><img src="img/illustration/thum_hona.png" alt=""></a></div>
+		<div class="item"><a href="/illustration/asahi-chukousei.php"><img src="img/illustration/thum_asahichuukousei.png" alt="高校入試　合格ごよみ（朝日中高生新聞）"></a></div>
+		<div class="item"><a href="/illustration/manmaru.php"><img src="img/illustration/thum_manmaru.png" alt="ウェブメディア（転職情報サイト）"></a></div>
+		<div class="item"><a href="/illustration/conceptwork.php"><img src="img/illustration/thum_conceptwork.png" alt="会社案内パンフレット"></a></div>
+		<div class="item"><a href="/illustration/hona.php"><img src="img/illustration/thum_hona.png" alt="業界職種勉強会チラシ"></a></div>
 	</div>
 	<div class="container-three">
-		<div class="item"><a href="/illustration/go-to-space.php"><img src="img/illustration/thum_space.png" alt=""></a></div>
-		<div class="item"><a href="/illustration/happy-holidays.php"><img src="img/illustration/thum_happyholidays.png" alt=""></a></div>
-		<div class="item"><a href="/illustration/spring.php"><img src="img/illustration/thum_spring.png" alt=""></a></div>
+		<div class="item"><a href="/illustration/go-to-space.php"><img src="img/illustration/thum_space.png" alt="Let's go to space!"></a></div>
+		<div class="item"><a href="/illustration/happy-holidays.php"><img src="img/illustration/thum_happyholidays.png" alt="Happy holidays!"></a></div>
+		<div class="item"><a href="/illustration/spring.php"><img src="img/illustration/thum_spring.png" alt="Spring"></a></div>
 		
 	</div>
 	<div class="container-three">
-		<div class="item"><a href="/illustration/monkey-girl.php"><img src="img/illustration/thum_monkeygirl.png" alt=""></a><</div>
-		<div class="item"><a href="/illustration/summer-girl_01.php"><img src="img/illustration/thum_summergirl_01.png" alt=""></a></div>
-		<div class="item"><a href="/illustration/distracted-boy.php"><img src="img/illustration/thum_distracted_boy.png" alt=""></a></div>
+		<div class="item"><a href="/illustration/monkey-girl.php"><img src="img/illustration/thum_monkeygirl.png" alt="Monkey girl"></a><</div>
+		<div class="item"><a href="/illustration/summer-girl_01.php"><img src="img/illustration/thum_summergirl_01.png" alt="Summer girl #01"></a></div>
+		<div class="item"><a href="/illustration/distracted-boy.php"><img src="img/illustration/thum_distracted_boy.png" alt="Distracted boy"></a></div>
 	</div>
 	
 	<!--<div class="container-five02">

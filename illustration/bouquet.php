@@ -4,8 +4,8 @@
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/google_analytics-tag.php'); ?>	
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<title>Spring｜Illustration｜ムーグラフィック[moographic]-イラストレーション/ウェブデザイン</title>
-<meta name="description" content="イラストレーターのムーグラフィック[moographic]のウェブデザインやDTPデザインなどについて紹介します。">
+<title>bouquet｜Illustration｜ムーグラフィック[moographic]-イラストレーション/ウェブデザイン</title>
+<meta name="description" content="イラストレーターのムーグラフィック[moographic]のイラストレーションについて紹介します。">
 <link rel="icon" href="/img/favicon.ico">	
 	
 <link rel="stylesheet" href="/css/reset.css">
@@ -26,18 +26,18 @@
 	<div class="breadcrumb">
 		<ul class="breadcrumb_list">
 			<li class="breadcrumb_list-item"><a href="/">Home</a></li>
-			<li class="breadcrumb_list-item">Spring</li>
+			<li class="breadcrumb_list-item">bouquet</li>
 		</ul>
 	</div><!--/.breadcrumb-->
 	
 	<h2 class="content-title">Illustration</h2>
 	
 	<div class="design-wrap">
-		<div class="design-pic"><img src="/img/illustration/spring.png" alt=""></div>
+		<div class="design-pic"><img src="/img/illustration/bouquet.png" alt="bouquet"></div>
 		<div class="design-txt">
-			<h3 class="design-txt-heading">Spring / オリジナル</h3>
+			<h3 class="design-txt-heading">bouquet / オリジナル</h3>
 			
-			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop Sketch / Adobe Illustrator Draw / Adobe Illustrator</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop Sketch / Adobe Illustrator Draw / Adobe Fresco</p>
 		</div>
 	</div><!--/.design-wrap-->
 

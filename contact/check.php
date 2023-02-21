@@ -25,6 +25,7 @@ session_start();
 </head>
 
 <body class="fadeout">
+<?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/google_tag-manager.php'); ?>	
 <div class="wrapper">
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/header.php'); ?>
 
