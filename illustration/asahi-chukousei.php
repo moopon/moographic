@@ -34,6 +34,7 @@
 	
 	<div class="design-wrap">
 		<div class="design-pic"><img src="/img/illustration/asahichuukousei.png" alt=""></div>
+		<div class="design-pic"><img src="/img/illustration/asahichuukousei02.png" alt=""></div>
 		<div class="design-txt">
 			<h3 class="design-txt-heading">高校入試　合格ごよみ（朝日中高生新聞） / 朝日学生新聞社</h3>
 			<p class="design-txt-description">朝日学生新聞社様発行の「朝日中高生新聞」のコーナー「高校入試　合格ごよみ」のカットイラストを制作させていただきました。</p>
