@@ -36,7 +36,7 @@
 		<div class="about-box-txt">
 			<p class="content-txt">ムーグラフィックは、東京を中心に活動しているイラストレーターです。<br>アメリカンレトロスタイルや日本の漫画などに強い影響を受けた、ポップで明るいタッチのスタイルが特徴です。</p>
 			
-			<p class="content-txt">千葉県出身。現在は東京都世田谷区在住。<br>多摩美術大学美術学部グラフィックデザイン学科卒。複数のデザイン会社、ウェブ制作会社を経てフリーランスとして独立。<br><a href="https://illustrators.jp/profile.php?id=1317" target="_blank">イラストレーターズ通信</a>会員。</p>
+			<p class="content-txt">千葉県出身。現在は東京都世田谷区在住。<br>多摩美術大学美術学部グラフィックデザイン学科卒。複数のデザイン会社、ウェブ制作会社を経てフリーランスとして独立。<br><a href="https://iratsu.com/u1317/" target="_blank">イラストレーターズ通信</a>会員。</p>
 
 			<p class="content-txt en">Moographic is a freelance illustrator living and working in Tokyo,Japan.<br>
 		I graduated from the Department of Graphic Design, Faculty of Fine Arts, Tama Art University.<br>My illustration is inspired by retro advertisements and comics.</p>
