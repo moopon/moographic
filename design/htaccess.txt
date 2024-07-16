@@ -4,7 +4,7 @@ deny from all
 Options -Indexes
 AuthUserFile /virtual/kuroki/public_html/www.moographic.jp/.htpasswd
 AuthGroupFile /dev/null
-AuthName "Please enter your ID and password"
+AuthName "IDとパスワードを入力してください"
 AuthType Basic
 require valid-user 
 order deny,allow
