@@ -12,8 +12,10 @@
 <link rel="stylesheet" href="/css/style.css">
 <link href="https://fonts.googleapis.com/css2?family=Mitr:wght@400&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="/css/slick-theme.css">
+<link rel="stylesheet" type="text/css" href="/css/slick.css">
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-<script type="text/javascript" src="/js/top.js"></script>		
+<script type="text/javascript" src="/js/top.js"></script>			
 </head>
 
 <body class="fadeout">
@@ -32,6 +34,22 @@
 	</div><!--/.breadcrumb-->
 	
 	<h2 class="content-title">Web</h2>
+	
+	<div class="design-wrap">
+		<div class="webdesign-container slider">
+			<div class="webdesign-pc wide"><img src="/img/design/web/chiyo-co_01.png" alt="chiyo-co（ちよこ）" title="解析画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/chiyo-co_02.png" alt="chiyo-co（ちよこ）" title="解析結果の一覧画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/chiyo-co_03.png" alt="chiyo-co（ちよこ）" title="解析結果のURL一覧画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/chiyo-co_04.png" alt="chiyo-co（ちよこ）" title="解析結果の詳細画面"></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://kagemusya.biz-samurai.com/" target="_blank">【UI】ウェブアプリケーション</a> / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のサポートツール「chiyo-co（ちよこ）」の画面UIを制作させていただきました。アイコン作成、画面設計、ワイヤーフレーム、デザイン、コーディングを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design / HTML,CSS(Sass) / JavaScript(jQuery) </p>
+			<p class="design-txt-info">使用アプリケーション：Adobe XD / Adobe Photoshop / Adobe Illustrator / Adobe Dreamweaver / Sourcetree / Prepros</p>
+		</div>
+	</div><!--/.design-wrap-->
 	
 	<div class="design-wrap">
 		<div class="webdesign-container">
@@ -213,4 +231,16 @@
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/footer.php'); ?>
 </div><!--/.wrapper-->	
 </body>
+
+<script type="text/javascript" src="/js/slick/slick.min.js"></script>		
+<script>
+	$(function(){
+	  $('.slider').slick({ 
+		autoplay: true, 
+		dots: true,
+		
+	  });
+	});
+</script>	
+	
 </html>

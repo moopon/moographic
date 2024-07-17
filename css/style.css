@@ -348,6 +348,8 @@ a.link_outer {
   #gallery .design-wrap .webdesign-container .webdesign-pc {
     width: 75.8%;
     height: auto;
+    margin: 0;
+    padding: 0;
     max-height: 700px;
     border: #ADADAD 1px solid;
     -webkit-box-sizing: border-box;
