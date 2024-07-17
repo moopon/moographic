@@ -34,6 +34,69 @@
 	<h2 class="content-title">Icon</h2>
 	
 	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/icon/icon_corporate.png" alt="CROCO株式会社アイコン"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">コーポレートサイト用アイコン / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のWebサイトで使用したアイコンです。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/icon/icon_fumi-co.png" alt="fumi-co（ふみこ）アイコン"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">UIデザイン用アイコン / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様が提供するサポートツール「fumi-co（ふみこ）」で使用したUIデザイン用アイコンです。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/icon/icon_saki-co.png" alt="saki-co（さきこ）アイコン"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">UIデザイン用アイコン / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様が提供するサポートツール「saki-co（さきこ）」で使用したUIデザイン用アイコンです。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/icon/icon_kayo-co.png" alt="kayo-co（かよこ）アイコン"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">UIデザイン用アイコン / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様が提供するサポートツール「kayo-co（かよこ）」で使用したUIデザイン用アイコンです。主にページナビゲーションメニューとして使用しています。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/icon/icon_editech-hub.png" alt="EDITECH HUBアイコン"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">UIデザイン用アイコン / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様が提供するプラットフォーム「EDITECH HUB（エディテックハブ）」で使用したUIデザイン用アイコンです。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/icon/icon_edilent.png" alt="EDILENTアイコン"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">UIデザイン用アイコン / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様が提供するプラットフォーム「EDILENT（エディレント）」で使用したUIデザイン用アイコンです。ユーザーのアバターアイコンも同時にデザインしました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/icon/icon_chiyo-co.png" alt="chiyo-co（ちよこ）アイコン"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">UIデザイン用アイコン / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様が提供するサポートツール「chiyo-co（ちよこ）」で使用したUIデザイン用アイコンです。主にページナビゲーションメニューとして使用しています。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
 		<div class="design-pic"><img src="/img/design/icon/icon_200622_01.png" alt=""></div>
 		<div class="design-txt">
 			<h3 class="design-txt-heading">資料用イラストアイコン（建物） / フリービットEPARKヘルスケア</h3>
