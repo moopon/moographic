@@ -12,8 +12,8 @@
 <link rel="stylesheet" href="/css/style.css">
 <link href="https://fonts.googleapis.com/css2?family=Mitr:wght@400&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap" rel="stylesheet">
-<link rel="stylesheet" type="text/css" href="/css/slick-theme.css">
 <link rel="stylesheet" type="text/css" href="/css/slick.css">
+<link rel="stylesheet" type="text/css" href="/css/slick-theme.css">	
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script type="text/javascript" src="/js/top.js"></script>			
 </head>
@@ -36,7 +36,149 @@
 	<h2 class="content-title">Web</h2>
 	
 	<div class="design-wrap">
-		<div class="webdesign-container slider">
+		<div class="webdesign-container">
+			<div class="webdesign-pc"><a href="https://cro-co.co.jp/" target="_blank"><img src="/img/design/web/croco_pc.png" alt="CROCO株式会社 PC用"></a></div>
+			<div class="webdesign-sp"><a href="https://cro-co.co.jp/" target="_blank"><img src="/img/design/web/croco_sp.png" alt="CROCO株式会社 スマートフォン用"></a></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://cro-co.co.jp/" target="_blank">公式企業ウェブサイト</a> / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のWebサイトを制作させていただきました。設計、デザイン、コーディングを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design / HTML,CSS(Sass) / JavaScript(jQuery) </p>
+			<p class="design-txt-info">使用アプリケーション：Adobe XD / Adobe Photoshop / Adobe Illustrator / Adobe Dreamweaver / Sourcetree / Prepros</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="webdesign-container">
+			<div class="webdesign-pc"><a href="https://kiraboshi-capital.co.jp/" target="_blank"><img src="/img/design/web/kiraboshi_pc.png" alt="きらぼしキャピタル PC用"></a></div>
+			<div class="webdesign-sp"><a href="https://kiraboshi-capital.co.jp/" target="_blank"><img src="/img/design/web/kiraboshi_sp.png" alt="きらぼしキャピタル スマートフォン用"></a></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://kiraboshi-capital.co.jp/" target="_blank">公式企業ウェブサイト</a> / きらぼしキャピタル株式会社</h3>
+			<p class="design-txt-description">港区の都市型地銀グループきらぼしキャピタル株式会社様のWebサイトを制作させていただきました。デザイン、コーディングを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design / HTML,CSS(Sass) / JavaScript(jQuery) </p>
+			<p class="design-txt-info">使用アプリケーション：Adobe XD / Adobe Photoshop / Adobe Illustrator / Adobe Dreamweaver / Sourcetree / Prepros</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="webdesign-container">
+			<div class="webdesign-pc"><a href="https://fumi-co.biz-samurai.com/lp.html" target="_blank"><img src="/img/design/web/lp_fumico-pc.png" alt="fumi-co（ふみこ） PC用"></a></div>
+			<div class="webdesign-sp"><a href="https://fumi-co.biz-samurai.com/lp.html" target="_blank"><img src="/img/design/web/lp_fumico-sp.png" alt="fumi-co（ふみこ）スマートフォン用"></a></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://edilent-client.biz-samurai.com/" target="_blank">【LP】ウェブアプリケーション</a> / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のサポートツール「fumi-co（ふみこ）」のランディングページを制作させていただきました。デザイン、コーディングを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design / HTML,CSS(Sass) / JavaScript(jQuery) </p>
+			<p class="design-txt-info">使用アプリケーション：Adobe XD / Adobe Photoshop / Adobe Illustrator / Adobe Dreamweaver / Sourcetree / Prepros</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="webdesign-container" id="slider06">
+			<div class="webdesign-pc wide"><img src="/img/design/web/fumi-co_01.png" alt="saki-co" title="ドキュメント一覧画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/fumi-co_02.png" alt="saki-co" title="ドキュメントエディタ画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/fumi-co_03.png" alt="saki-co" title="テンプレート一覧画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/fumi-co_04.png" alt="saki-co" title="SEO記事作成画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/fumi-co_05.png" alt="saki-co" title="ペルソナ一覧画面"></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://fumi-co.biz-samurai.com/lp.html" target="_blank">【UI】ウェブアプリケーション</a> / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のウェブアプリケーション「fumi-co（ふみこ）」の画面UIを制作させていただきました。アイコン作成、画面設計、ワイヤーフレーム、デザイン、コーディングを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design / HTML,CSS(Sass) / JavaScript(jQuery) </p>
+			<p class="design-txt-info">使用アプリケーション：Adobe XD / Adobe Photoshop / Adobe Illustrator / Adobe Dreamweaver / Sourcetree / Prepros</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="webdesign-container" id="slider05">
+			<div class="webdesign-pc wide"><img src="/img/design/web/saki-co_01.png" alt="saki-co" title="サマリー画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/saki-co_02.png" alt="saki-co" title="ディレクトリ画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/saki-co_03.png" alt="saki-co" title="サイト全体画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/saki-co_04.png" alt="saki-co" title="会員情報画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/saki-co_05.png" alt="saki-co" title="登録済みの条件画面"></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://saki-co.biz-samurai.com/" target="_blank">【UI】ウェブアプリケーション</a> / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のウェブアプリケーション「saki-co（さきこ）」の画面UIを制作させていただきました。アイコン作成、画面設計、ワイヤーフレーム、デザイン、コーディングを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design / HTML,CSS(Sass) / JavaScript(jQuery) </p>
+			<p class="design-txt-info">使用アプリケーション：Adobe XD / Adobe Photoshop / Adobe Illustrator / Adobe Dreamweaver / Sourcetree / Prepros</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="webdesign-container" id="slider04">
+			<div class="webdesign-pc wide"><img src="/img/design/web/kayo-co_01.png" alt="kayo-co" title="プロジェクト一覧画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/kayo-co_02.png" alt="kayo-co" title="ホーム画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/kayo-co_03.png" alt="kayo-co" title="表示設定画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/kayo-co_04.png" alt="kayo-co" title="アルゴリズム設定画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/kayo-co_05.png" alt="kayo-co" title="アクセス解析画面"></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://kayo-co.biz-samurai.com/" target="_blank">【UI】ウェブアプリケーション</a> / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のウェブアプリケーション「kayo-co（かよこ）」の画面UIを制作させていただきました。アイコン作成、画面設計、ワイヤーフレーム、デザイン、コーディングを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design / HTML,CSS(Sass) / JavaScript(jQuery) </p>
+			<p class="design-txt-info">使用アプリケーション：Adobe XD / Adobe Photoshop / Adobe Illustrator / Adobe Dreamweaver / Sourcetree / Prepros</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="webdesign-container" id="slider03">
+			<div class="webdesign-pc wide"><img src="/img/design/web/editechhub_05.png" alt="editechhub" title="ロゴ"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/editechhub_01.png" alt="editechhub" title="ホーム画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/editechhub_02.png" alt="editechhub" title="注文一覧画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/editechhub_03.png" alt="editechhub" title="請求一覧画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/editechhub_04.png" alt="editechhub" title="検索条件設定画面"></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://editech-hub.biz-samurai.com/" target="_blank">【UI/ロゴデザイン】プラットフォーム</a> / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のプラットフォーム「EDITECH HUB（エディテックハブ）」の画面UIを制作させていただきました。ロゴデザイン、アイコン作成、画面設計、ワイヤーフレーム、デザイン、コーディングを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design / HTML,CSS(Sass) / JavaScript(jQuery) </p>
+			<p class="design-txt-info">使用アプリケーション：Adobe XD / Adobe Photoshop / Adobe Illustrator / Adobe Dreamweaver / Sourcetree / Prepros</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="webdesign-container">
+			<div class="webdesign-pc"><a href="https://edilent.biz-samurai.com/" target="_blank"><img src="/img/design/web/lp_edilent-pc.png" alt="EDILENT（エディレント） PC用"></a></div>
+			<div class="webdesign-sp"><a href="https://edilent.biz-samurai.com/" target="_blank"><img src="/img/design/web/lp_edilent-sp.png" alt="EDILENT（エディレント）スマートフォン用"></a></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://edilent-client.biz-samurai.com/" target="_blank">【LP】プラットフォーム</a> / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のプラットフォーム「EDILENT（エディレント）」のランディングページを制作させていただきました。デザイン、コーディングを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design / HTML,CSS(Sass) / JavaScript(jQuery) </p>
+			<p class="design-txt-info">使用アプリケーション：Adobe XD / Adobe Photoshop / Adobe Illustrator / Adobe Dreamweaver / Sourcetree / Prepros</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="webdesign-container" id="slider02">
+			<div class="webdesign-pc wide"><img src="/img/design/web/edilent_06.png" alt="EDILENT（エディレント）" title="ロゴ"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/edilent_01.png" alt="EDILENT（エディレント）" title="ホーム画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/edilent_02.png" alt="EDILENT（エディレント）" title="お知らせ画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/edilent_03.png" alt="EDILENT（エディレント）" title="公開情報・スキルシート画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/edilent_04.png" alt="EDILENT（エディレント）" title="公開情報・スキルシート画面"></div>
+			<div class="webdesign-pc wide"><img src="/img/design/web/edilent_05.png" alt="EDILENT（エディレント）" title="公募案件の詳細画面"></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://edilent-client.biz-samurai.com/" target="_blank">【UI/ロゴデザイン】プラットフォーム</a> / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のプラットフォーム「EDILENT（エディレント）」の画面UIを制作させていただきました。ロゴデザイン、アイコン作成、画面設計、ワイヤーフレーム、デザイン、コーディングを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design / HTML,CSS(Sass) / JavaScript(jQuery) </p>
+			<p class="design-txt-info">使用アプリケーション：Adobe XD / Adobe Photoshop / Adobe Illustrator / Adobe Dreamweaver / Sourcetree / Prepros</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="webdesign-container" id="slider01">
 			<div class="webdesign-pc wide"><img src="/img/design/web/chiyo-co_01.png" alt="chiyo-co（ちよこ）" title="解析画面"></div>
 			<div class="webdesign-pc wide"><img src="/img/design/web/chiyo-co_02.png" alt="chiyo-co（ちよこ）" title="解析結果の一覧画面"></div>
 			<div class="webdesign-pc wide"><img src="/img/design/web/chiyo-co_03.png" alt="chiyo-co（ちよこ）" title="解析結果のURL一覧画面"></div>
@@ -234,12 +376,31 @@
 
 <script type="text/javascript" src="/js/slick/slick.min.js"></script>		
 <script>
-	$(function(){
-	  $('.slider').slick({ 
-		autoplay: true, 
-		dots: true,
-		
-	  });
+	$(window).on('load', function(){
+		$('#slider01').slick({
+			autoplay: true, 
+			dots: true,
+		});
+		$('#slider02').slick({
+			autoplay: true, 
+			dots: true,
+		});
+		$('#slider03').slick({
+			autoplay: true, 
+			dots: true,
+		});
+		$('#slider04').slick({
+			autoplay: true, 
+			dots: true,
+		});
+		$('#slider05').slick({
+			autoplay: true, 
+			dots: true,
+		});
+		$('#slider06').slick({
+			autoplay: true, 
+			dots: true,
+		});
 	});
 </script>	
 	
