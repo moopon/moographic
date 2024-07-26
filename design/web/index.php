@@ -70,7 +70,7 @@
 		</div><!--/.webdesign-container-->
 		
 		<div class="design-txt">
-			<h3 class="design-txt-heading"><a class="link_outer" href="https://edilent-client.biz-samurai.com/" target="_blank">【LP】ウェブアプリケーション</a> / CROCO株式会社</h3>
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://fumi-co.biz-samurai.com/lp.html" target="_blank">【LP】ウェブアプリケーション</a> / CROCO株式会社</h3>
 			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のサポートツール「fumi-co（ふみこ）」のランディングページを制作させていただきました。デザイン、コーディングを担当させていただきました。</p>
 			<p class="design-txt-skill">スキル：Design / HTML,CSS(Sass) / JavaScript(jQuery) </p>
 			<p class="design-txt-info">使用アプリケーション：Adobe XD / Adobe Photoshop / Adobe Illustrator / Adobe Dreamweaver / Sourcetree / Prepros</p>
