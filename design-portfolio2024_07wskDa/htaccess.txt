@@ -1,0 +1,10 @@
+<Files ~ "^\.(htaccess|htpasswd)$">
+deny from all
+</Files>
+Options -Indexes
+AuthUserFile /virtual/kuroki/public_html/www.moographic.jp/.htpasswd
+AuthGroupFile /dev/null
+AuthName "IDとパスワードを入力してください"
+AuthType Basic
+require valid-user 
+order deny,allow

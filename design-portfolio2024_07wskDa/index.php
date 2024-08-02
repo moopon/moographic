@@ -44,9 +44,9 @@
 			<p class="desin-txt">チラシ、パンフレットなどの紙媒体の制作事例です。</p>
 		</div><!--/.design-box-->
 		<div class="design-box">
-			<h3 class="design-title">Icon</h3>
-			<div class="design-bnr"><a href="./icon/"><img src="/img/design/bnr_icon.png" alt="Icon"></a></div>
-			<p class="desin-txt">営業資料やウェブサイトなど様々な用途で使用する事を想定したイラストアイコンの制作事例です。</p>
+			<h3 class="design-title">Others</h3>
+			<div class="design-bnr"><a href="./others/"><img src="/img/design/bnr_others.png" alt="Others"></a></div>
+			<p class="desin-txt">その他、広告バナーや営業資料、イラストアイコンなどの制作事例です。</p>
 		</div><!--/.design-box-->
 	</div><!--/.design-container-->
 	
