@@ -750,6 +750,7 @@ a.link_outer {
     padding: 50px;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
+    min-height: 85vh;
   }
   #gallery.content .breadcrumb {
     width: 100%;

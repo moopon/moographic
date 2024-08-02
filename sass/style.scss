@@ -725,6 +725,7 @@ header{
 	&.content{
 		padding: 50px;
 		box-sizing: border-box;
+		min-height: 85vh;
 		.breadcrumb{
 			width: 100%;
 			height: auto;
