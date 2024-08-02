@@ -4,7 +4,7 @@
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/google_analytics-tag.php'); ?>	
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<title>Icon｜Design｜ムーグラフィック[moographic]-イラストレーション/ウェブデザイン</title>
+<title>Others｜Design｜ムーグラフィック[moographic]-イラストレーション/ウェブデザイン</title>
 <meta name="description" content="イラストレーターのムーグラフィック[moographic]のウェブデザインやDTPデザインなどについて紹介します。">
 <meta name="robots" content="noindex" />	
 <link rel="icon" href="/img/favicon.ico">		
@@ -27,11 +27,47 @@
 		<ul class="breadcrumb_list">
 			<li class="breadcrumb_list-item"><a href="/">Home</a></li>
 			<li class="breadcrumb_list-item"><a href="../">Design</a></li>
-			<li class="breadcrumb_list-item">Icon</li>
+			<li class="breadcrumb_list-item">Others</li>
 		</ul>
 	</div><!--/.breadcrumb-->
 	
-	<h2 class="content-title">Icon</h2>
+	<h2 class="content-title">Others</h2>
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/others_03.png" alt="CROCO株式会社アイキャッチ"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">ウェブサービスバナー広告など / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のサポートツール「tami-co（たみこ）」のバナー広告です。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/others_04.png" alt="CROCO株式会社コーポレートサイト用セミナー告知バナー"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">コーポレートサイト用セミナー告知バナー / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様が登壇・主催するセミナー用の告知バナーです。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/others_02.png" alt="CROCO株式会社アイキャッチ"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">キャンペーン用バナー / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様のプラットフォーム「EDILENT」のキャンペーン用バナーです。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/others_01.png" alt="CROCO株式会社アイキャッチ"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">ブログ用アイキャッチ / CROCO株式会社</h3>
+			<p class="design-txt-description">渋谷区のコンテンツマーケティングソリューションを開発・提供しているCROCO株式会社様が管理するブログで使用したアイキャッチです。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
 	
 	<div class="design-wrap">
 		<div class="design-pic"><img src="/img/design/icon/icon_corporate.png" alt="CROCO株式会社アイコン"></div>
