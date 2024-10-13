@@ -44,7 +44,7 @@
 	}
 	return str;
 	}
-	var ad = converter(String.fromCharCode(106,116,113,110,106,104,63,108,110,110)+String.fromCharCode(102,113,96,111,103,104,98,45,105,111));
+	var ad = converter(String.fromCharCode(104,109,101,110,63,108,110,110,102,113)+String.fromCharCode(96,111,103,104,98,45,105,111));
 	document.write("<a href=\"mai"+"lto:"+ad+"\">"+ad+"<\/a>");
 	//-->
 	</script>
