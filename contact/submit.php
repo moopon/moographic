@@ -41,7 +41,7 @@ $message = htmlspecialchars($_SESSION["message"],ENT_QUOTES,"UTF-8");
 
 //フォーム送信者宛て自動返信メール本文の組み立て
 $reply_title = "お問い合わせありがとうございました。";
-$reply_email = "From:".mb_encode_mimeheader("moographic[ムーグラフィック]","JIS","UTF-8") ."<kuroki@moographic.jp>";
+$reply_email = "From:".mb_encode_mimeheader("moographic[ムーグラフィック]","JIS","UTF-8") ."<info@moographic.jp>";
 $reply_body = <<<EOM
 $uname 様
 この度は、お問い合わせ頂きまして、誠にありがとうございました。
@@ -62,7 +62,7 @@ $uname 様
 -------------------------------------------------------
 moographic[ムーグラフィック]
 イラストレーター / ウェブデザイナー
-e-mail   : kuroki@moographic.jp
+e-mail   : info@moographic.jp
 url        : http://www.moographic.jp/
 
 イラストレーターズ通信会員
@@ -71,7 +71,7 @@ http://www.illustrators.jp/
 EOM;
 
 //管理者宛てメール本文の組み立て
-$to = "kuroki@moographic.jp";
+$to = "info@moographic.jp";
 $title = "【ムーグラフィックお問い合わせフォームより】";
 $ext_header = "From:{$email}";
 $body = <<<EOM

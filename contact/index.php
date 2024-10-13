@@ -53,7 +53,7 @@
 
 	 までメールでお問い合わせください。</p>
 		
-	<p class="contact-txt en">To inquire about my illustration, please email me at kuroki[at]moographic[dot]jp.<br>Alternatively, please fill out the inquiry form.</p>	
+	<p class="contact-txt en">To inquire about my illustration, please email me at info[at]moographic[dot]jp.<br>Alternatively, please fill out the inquiry form.</p>	
 	
 		<form method="post" action="check.php" class="contact_form">
 		<ul class="contact_list">
