@@ -60,7 +60,7 @@
 				</tr>
 				<tr>
 					<th class="profile-table-heading">お問い合わせ：</th>
-					<td class="profile-table-txt">kuroki@moographic.jp  /  <a href="/contact/">お問い合わせフォーム</a></td>
+					<td class="profile-table-txt">info@moographic.jp  /  <a href="/contact/">お問い合わせフォーム</a></td>
 				</tr>
 			</table>
 			
