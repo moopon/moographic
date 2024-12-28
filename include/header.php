@@ -1,4 +1,4 @@
-<header id="header">
+<header id="header">あ
 	<div class="header_container">
 		<h1><a href="/">ムーグラフィック[moographic]</a></h1>
 		<div id="nav-toggle">

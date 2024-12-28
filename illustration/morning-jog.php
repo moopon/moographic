@@ -10,6 +10,7 @@
 	
 <link rel="stylesheet" href="/css/reset.css">
 <link rel="stylesheet" href="/css/style.css">
+<link rel="canonical" href="https://www.moographic.jp">
 <link href="https://fonts.googleapis.com/css2?family=Mitr:wght@400&display=swap" rel="stylesheet">
 <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap" rel="stylesheet">
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
