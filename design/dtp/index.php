@@ -34,6 +34,111 @@
 	
 	<h2 class="content-title">DTP</h2>
 	
+	
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_animal-pamphlet-omote.png" alt="サービス案内リーフレット / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-pic"><img src="/img/design/dtp/hbs_animal-pamphlet-ura.png" alt="サービス案内リーフレット / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">サービス案内リーフレット / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSEあにまる」リーフレットを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator / Adobe Photoshop</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_animal-leaf-omote.png" alt="サービス案内三つ折りリーフレット / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-pic"><img src="/img/design/dtp/hbs_animal-leaf-ura.png" alt="サービス案内三つ折りリーフレット / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">サービス案内三つ折りリーフレット / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSEあにまる」三つ折りリーフレットを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator / Adobe Photoshop</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_animal-manual.png" alt="サービス運用マニュアル（簡易版） / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">サービス簡易マニュアル / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSEあにまる」サービス運用マニュアル（簡易版）を制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_animal-package.png" alt="商品パッケージデザイン（獣医師用） / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">商品パッケージデザイン（獣医師用） / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSEあにまる」商品パッケージデザイン（獣医師用）を制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_juki.png" alt="薬局店舗用什器 / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">薬局店舗用什器 / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE」薬局店舗用什器を制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_tejunsho.png" alt="サービス利用マニュアル（手順書） / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">サービス利用マニュアル（手順書） / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE」サービス利用マニュアル（手順書）を制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_animal-takujou.png" alt="卓上POP / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">卓上POP / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSEあにまる」卓上POPを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_hanbaidairiten-flyer.png" alt="販売代理店募集チラシ / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">販売代理店募集チラシ / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE」販売代理店募集チラシを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_houjin-flyer.png" alt="法人向けサービス紹介チラシ / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">法人向けサービス紹介チラシ / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE」法人向けサービス紹介チラシを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_a4_rugby.png" alt="試合会場ブース用パネル / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">試合会場ブース用パネル / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様が協賛するラグビーチーム「埼玉パナソニックワイルドナイツ」試合会場で設営されたブース用のパネルを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_a4_rugby-flyer.png" alt="試合会場配布チラシ / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">試合会場配布チラシ / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様が協賛するラグビーチーム「埼玉パナソニックワイルドナイツ」のチラシを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
 	<div class="design-wrap">
 		<div class="design-pic"><img src="/img/design/dtp/croco_booklet.png" alt="会社案内資料 / CROCO株式会社"></div>
 		<div class="design-txt">
