@@ -35,6 +35,69 @@
 	<h2 class="content-title">Others</h2>
 	
 	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/others_hbio-newKV.png" alt="公式サイトメインビジュアルです / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">ウェブサービスキャンペーンバナー / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE（エヌノーズ）」公式サイトメインビジュアル（PC/SP）です。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/others_hbio-line.png" alt="ウェブサービスキャンペーンバナー / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">ウェブサービスキャンペーンバナー / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE（エヌノーズ）LINE友達募集中キャンペーン」の誘導バナーです。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/others_hbio-couple.png" alt="ウェブサービスキャンペーンバナー / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">ウェブサービスキャンペーンバナー / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE（エヌノーズ）いい夫婦の日キャンペーン」の誘導バナーです。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/others_hbio-christmas.png" alt="ウェブサービスキャンペーンバナー / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">ウェブサービスキャンペーンバナー / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE（エヌノーズ）クリスマスキャンペーン」の誘導バナーです。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/others_hbio-business.png" alt="ウェブサービスバナー / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">ウェブサービスバナー / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE（エヌノーズ）法人向け」の誘導バナーです。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/others_hbio-x.png" alt="X,twitter投稿画像 / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">ウェブサービスバナー / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE（エヌノーズ）」のX,twitter投稿画像です。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/others_hbio-ad.png" alt="ウェブサービスバナー広告など / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">ウェブサービスバナー広告など / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE（エヌノーズ）」のバナー広告です。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
 		<div class="design-pic"><img src="/img/design/others/others_03.png" alt="CROCO株式会社アイキャッチ"></div>
 		<div class="design-txt">
 			<h3 class="design-txt-heading">ウェブサービスバナー広告など / CROCO株式会社</h3>
