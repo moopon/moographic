@@ -38,6 +38,34 @@
 	
 	<div class="design-wrap">
 		<div class="webdesign-container">
+			<div class="webdesign-pc"><a href="https://lp.n-nose.com/cp/family2025win/" target="_blank"><img src="/img/design/web/lp_family-pc.png" alt="HIROTSUバイオサイエンスevolveキャンペーン PC用"></a></div>
+			<div class="webdesign-sp"><a href="https://lp.n-nose.com/cp/family2025win/" target="_blank"><img src="/img/design/web/lp_family-sp.png" alt="HIROTSUバイオサイエンスevolveキャンペーン スマートフォン用"></a></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://lp.n-nose.com/cp/evolve/" target="_blank">キャンペーンページ</a> / CROCO株式会社</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様のキャンペーンページを制作させていただきました。設計、デザインを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design </p>
+			<p class="design-txt-info">使用アプリケーション：Figma / Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="webdesign-container">
+			<div class="webdesign-pc"><a href="https://lp.n-nose.com/cp/evolve/" target="_blank"><img src="/img/design/web/lp_evolve-pc.png" alt="HIROTSUバイオサイエンスevolveキャンペーン PC用"></a></div>
+			<div class="webdesign-sp"><a href="https://lp.n-nose.com/cp/evolve/" target="_blank"><img src="/img/design/web/lp_evolve-sp.png" alt="HIROTSUバイオサイエンスevolveキャンペーン スマートフォン用"></a></div>
+		</div><!--/.webdesign-container-->
+		
+		<div class="design-txt">
+			<h3 class="design-txt-heading"><a class="link_outer" href="https://lp.n-nose.com/cp/evolve/" target="_blank">キャンペーンページ</a> / CROCO株式会社</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様のキャンペーンページを制作させていただきました。設計、デザインを担当させていただきました。</p>
+			<p class="design-txt-skill">スキル：Design </p>
+			<p class="design-txt-info">使用アプリケーション：Figma / Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
+		<div class="webdesign-container">
 			<div class="webdesign-pc"><a href="https://cro-co.co.jp/" target="_blank"><img src="/img/design/web/croco_pc.png" alt="CROCO株式会社 PC用"></a></div>
 			<div class="webdesign-sp"><a href="https://cro-co.co.jp/" target="_blank"><img src="/img/design/web/croco_sp.png" alt="CROCO株式会社 スマートフォン用"></a></div>
 		</div><!--/.webdesign-container-->

@@ -57,6 +57,15 @@
 	</div><!--/.design-wrap-->
 	
 	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/hbs_a4_kyoritsu.png" alt="「N-NOSE」割引クーポン付きチラシ / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">割引クーポン付きチラシ / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「N-NOSE」割引クーポン付きチラシを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+	
+	<div class="design-wrap">
 		<div class="design-pic"><img src="/img/design/dtp/hbs_animal-manual.png" alt="サービス運用マニュアル（簡易版） / 株式会社HIROTSUバイオサイエンス"></div>
 		<div class="design-txt">
 			<h3 class="design-txt-heading">サービス簡易マニュアル / 株式会社HIROTSUバイオサイエンス</h3>
