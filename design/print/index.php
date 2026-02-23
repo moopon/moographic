@@ -4,7 +4,7 @@
 <?php include( $_SERVER['DOCUMENT_ROOT'] . '/include/google_analytics-tag.php'); ?>	
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
-<title>DTP｜Design｜ムーグラフィック[moographic]-イラストレーション/ウェブデザイン</title>
+<title>Print[moographic]-イラストレーション/ウェブデザイン</title>
 <meta name="description" content="イラストレーターのムーグラフィック[moographic]のウェブデザインやDTPデザインなどについて紹介します。">
 <meta name="robots" content="noindex" />	
 <link rel="icon" href="/img/favicon.ico">		
@@ -28,11 +28,11 @@
 		<ul class="breadcrumb_list">
 			<li class="breadcrumb_list-item"><a href="/">Home</a></li>
 			<li class="breadcrumb_list-item"><a href="../">Design</a></li>
-			<li class="breadcrumb_list-item">DTP</li>
+			<li class="breadcrumb_list-item">Print</li>
 		</ul>
 	</div><!--/.breadcrumb-->
 	
-	<h2 class="content-title">DTP</h2>
+	<h2 class="content-title">Print</h2>
 	
 	
 	
