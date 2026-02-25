@@ -13,7 +13,7 @@ body::after {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: #FFFFFF;
+  background-color: #ffffff;
   z-index: 9999;
   pointer-events: none;
   opacity: 0;
@@ -25,7 +25,7 @@ body.fadeout::after {
 }
 
 a {
-  color: #00A2E2;
+  color: #00a2e2;
   text-decoration: none;
 }
 a:hover {
@@ -109,7 +109,7 @@ a.link_outer {
     -webkit-transform: rotate(-15deg);
         -ms-transform: rotate(-15deg);
             transform: rotate(-15deg);
-    fill: #00A2E2;
+    fill: #00a2e2;
   }
   header .header_container .sns {
     width: 100%;
@@ -290,8 +290,8 @@ a.link_outer {
     left: 0;
     width: 15px;
     height: 15px;
-    border-top: #ADADAD 1px solid;
-    border-left: #ADADAD 1px solid;
+    border-top: #adadad 1px solid;
+    border-left: #adadad 1px solid;
   }
   #gallery .design-container .design-box .desin-txt:after {
     content: "";
@@ -301,8 +301,8 @@ a.link_outer {
     right: 0;
     width: 15px;
     height: 15px;
-    border-bottom: #ADADAD 1px solid;
-    border-right: #ADADAD 1px solid;
+    border-bottom: #adadad 1px solid;
+    border-right: #adadad 1px solid;
   }
   #gallery .design-wrap {
     width: 100%;
@@ -313,13 +313,31 @@ a.link_outer {
             box-sizing: border-box;
   }
   #gallery .design-wrap .design-pic {
-    width: 80%;
-    max-width: 700px;
+    width: 90%;
+    max-width: 800px;
     height: auto;
     margin: 0 auto 20px;
   }
   #gallery .design-wrap .design-pic img {
     width: 100%;
+  }
+  #gallery .design-wrap .design-pic02 {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+    width: 90%;
+    max-width: 800px;
+    height: auto;
+    margin: 0 auto 20px;
+  }
+  #gallery .design-wrap .design-pic02 > img {
+    width: 48%;
+    height: auto;
+    -webkit-box-shadow: 0px 0px 8px 4px rgba(212, 216, 218, 0.6);
+            box-shadow: 0px 0px 8px 4px rgba(212, 216, 218, 0.6);
   }
   #gallery .design-wrap .design-txt {
     font-size: 1.5rem;
@@ -332,7 +350,8 @@ a.link_outer {
   #gallery .design-wrap .design-txt .design-txt-description {
     margin: 0 0 15px;
   }
-  #gallery .design-wrap .design-txt .design-txt-info, #gallery .design-wrap .design-txt .design-txt-skill {
+  #gallery .design-wrap .design-txt .design-txt-info,
+  #gallery .design-wrap .design-txt .design-txt-skill {
     text-align: right;
     font-size: 1.3rem;
   }
@@ -351,7 +370,7 @@ a.link_outer {
     margin: 0;
     padding: 0;
     max-height: 700px;
-    border: #ADADAD 1px solid;
+    border: #adadad 1px solid;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     overflow: hidden;
@@ -371,7 +390,7 @@ a.link_outer {
     width: 22.9%;
     height: auto;
     max-height: 700px;
-    border: #ADADAD 1px solid;
+    border: #adadad 1px solid;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     overflow: hidden;
@@ -423,8 +442,8 @@ a.link_outer {
     width: 40px;
     height: auto;
     border-radius: 20px;
-    background-color: #00A2E2;
-    color: #FFFFFF;
+    background-color: #00a2e2;
+    color: #ffffff;
     font-size: 1rem;
     padding: 5px;
     -webkit-box-sizing: border-box;
@@ -438,16 +457,17 @@ a.link_outer {
     color: red;
     font-size: 1.2rem;
   }
-  #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field input, #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field textarea {
+  #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field input,
+  #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field textarea {
     width: 100%;
     padding: 10px;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
-    border: #FFFFFF 1px solid;
+    border: #ffffff 1px solid;
     border-radius: 6px;
-    background-color: #F8F8F8;
-    -webkit-box-shadow: inset 2px 2px 2px #D4D6D9, inset -2px -2px 2px #FFFFFF;
-            box-shadow: inset 2px 2px 2px #D4D6D9, inset -2px -2px 2px #FFFFFF;
+    background-color: #f8f8f8;
+    -webkit-box-shadow: inset 2px 2px 2px #d4d6d9, inset -2px -2px 2px #ffffff;
+            box-shadow: inset 2px 2px 2px #d4d6d9, inset -2px -2px 2px #ffffff;
   }
   #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field select {
     width: 25%;
@@ -471,12 +491,12 @@ a.link_outer {
     padding: 15px 0;
     border: #000000 2px solid;
     border-radius: 30px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     cursor: pointer;
     font-size: 1.5rem;
   }
   #gallery .contact-container .contact_form #submit_button #submit:disabled {
-    border: #BDBDBD 2px solid;
+    border: #bdbdbd 2px solid;
     cursor: default;
   }
   #gallery .contact-container .contact_form #submit_button_last {
@@ -487,7 +507,7 @@ a.link_outer {
     padding: 15px 0;
     border: #000000 2px solid;
     border-radius: 30px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     cursor: pointer;
     font-size: 1.5rem;
   }
@@ -496,7 +516,7 @@ a.link_outer {
     padding: 15px 0;
     border: #000000 2px solid;
     border-radius: 30px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     cursor: pointer;
     font-size: 1.5rem;
   }
@@ -506,7 +526,7 @@ a.link_outer {
   }
   footer .footer_container .copyright {
     text-align: center;
-    color: #FFFFFF;
+    color: #ffffff;
     position: fixed;
     right: -145px;
     top: 50%;
@@ -518,7 +538,7 @@ a.link_outer {
     font-size: 1rem;
   }
   .item {
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     max-height: 300px;
     min-height: 300px;
     /*border: #FFFFFF 2px solid;*/
@@ -655,7 +675,7 @@ a.link_outer {
   header {
     width: 100%;
     height: 120px;
-    background: #FFFFFF;
+    background: #ffffff;
     position: relative;
   }
   header .header_container {
@@ -719,7 +739,7 @@ a.link_outer {
     -webkit-transform: rotate(-15deg);
         -ms-transform: rotate(-15deg);
             transform: rotate(-15deg);
-    fill: #00A2E2;
+    fill: #00a2e2;
   }
   header .sns {
     width: 15%;
@@ -887,8 +907,8 @@ a.link_outer {
     left: 0;
     width: 15px;
     height: 15px;
-    border-top: #ADADAD 1px solid;
-    border-left: #ADADAD 1px solid;
+    border-top: #adadad 1px solid;
+    border-left: #adadad 1px solid;
   }
   #gallery.content .design-container .design-box .desin-txt:after {
     content: "";
@@ -898,8 +918,8 @@ a.link_outer {
     right: 0;
     width: 15px;
     height: 15px;
-    border-bottom: #ADADAD 1px solid;
-    border-right: #ADADAD 1px solid;
+    border-bottom: #adadad 1px solid;
+    border-right: #adadad 1px solid;
   }
   #gallery.content .design-wrap {
     width: 100%;
@@ -946,7 +966,7 @@ a.link_outer {
     width: 76.2%;
     height: auto;
     max-height: 700px;
-    border: #ADADAD 1px solid;
+    border: #adadad 1px solid;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     overflow: hidden;
@@ -965,7 +985,7 @@ a.link_outer {
     width: 23%;
     height: auto;
     max-height: 700px;
-    border: #ADADAD 1px solid;
+    border: #adadad 1px solid;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
     overflow: hidden;
@@ -1016,8 +1036,8 @@ a.link_outer {
     width: 40px;
     height: auto;
     border-radius: 20px;
-    background-color: #00A2E2;
-    color: #FFFFFF;
+    background-color: #00a2e2;
+    color: #ffffff;
     font-size: 1rem;
     padding: 5px;
     -webkit-box-sizing: border-box;
@@ -1031,16 +1051,17 @@ a.link_outer {
     color: red;
     font-size: 1.2rem;
   }
-  #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field input, #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field textarea {
+  #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field input,
+  #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field textarea {
     width: 100%;
     padding: 10px;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
-    border: #FFFFFF 1px solid;
+    border: #ffffff 1px solid;
     border-radius: 6px;
-    background-color: #F8F8F8;
-    -webkit-box-shadow: inset 2px 2px 2px #D4D6D9, inset -2px -2px 2px #FFFFFF;
-            box-shadow: inset 2px 2px 2px #D4D6D9, inset -2px -2px 2px #FFFFFF;
+    background-color: #f8f8f8;
+    -webkit-box-shadow: inset 2px 2px 2px #d4d6d9, inset -2px -2px 2px #ffffff;
+            box-shadow: inset 2px 2px 2px #d4d6d9, inset -2px -2px 2px #ffffff;
   }
   #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field select {
     width: 25%;
@@ -1064,12 +1085,12 @@ a.link_outer {
     padding: 15px 0;
     border: #000000 2px solid;
     border-radius: 30px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     cursor: pointer;
     font-size: 1.5rem;
   }
   #gallery .contact-container .contact_form #submit_button #submit:disabled {
-    border: #BDBDBD 2px solid;
+    border: #bdbdbd 2px solid;
     cursor: default;
   }
   #gallery .contact-container .contact_form #submit_button_last {
@@ -1080,7 +1101,7 @@ a.link_outer {
     padding: 15px 0;
     border: #000000 2px solid;
     border-radius: 30px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     cursor: pointer;
     font-size: 1.5rem;
   }
@@ -1089,7 +1110,7 @@ a.link_outer {
     padding: 15px 0;
     border: #000000 2px solid;
     border-radius: 30px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     cursor: pointer;
     font-size: 1.5rem;
   }
@@ -1103,11 +1124,11 @@ a.link_outer {
   }
   footer .footer_container .copyright {
     text-align: center;
-    color: #FFFFFF;
+    color: #ffffff;
     font-size: 1rem;
   }
   .item {
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     max-height: 300px;
     min-height: 300px;
   }
@@ -1242,7 +1263,7 @@ a.link_outer {
     display: none;
   }
   .item {
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     max-height: 200px;
     min-height: 200px;
   }
@@ -1350,7 +1371,8 @@ a.link_outer {
     height: 70px;
     background-size: contain;
   }
-  header .header_container .gnav, header .header_container .sns {
+  header .header_container .gnav,
+  header .header_container .sns {
     display: none;
   }
   header .header_container #nav-toggle {
@@ -1371,7 +1393,7 @@ a.link_outer {
     position: absolute;
     height: 4px;
     width: 100%;
-    background: #00A0E9;
+    background: #00a0e9;
     left: 0;
     -webkit-transition: 0.35s ease-in-out;
     transition: 0.35s ease-in-out;
@@ -1392,7 +1414,7 @@ a.link_outer {
     padding: 0;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     position: fixed;
     top: 0;
     z-index: 9998;
@@ -1495,7 +1517,7 @@ a.link_outer {
             transform: rotate(-315deg);
   }
   #gallery.content {
-    padding: 30px 7%;
+    padding: 30px 16px;
   }
   #gallery.content .about-container {
     display: block;
@@ -1547,6 +1569,18 @@ a.link_outer {
   #gallery.content .design-wrap .design-pic img {
     width: 100%;
   }
+  #gallery.content .design-wrap .design-pic02 {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
+  }
+  #gallery.content .design-wrap .design-pic02 img {
+    width: 100%;
+    margin: 8px 0;
+    -webkit-box-shadow: 0px 0px 8px 4px rgba(212, 216, 218, 0.6);
+            box-shadow: 0px 0px 8px 4px rgba(212, 216, 218, 0.6);
+  }
   #gallery.content .design-wrap .design-txt {
     font-size: 1.5rem;
     line-height: 1.5em;
@@ -1558,7 +1592,8 @@ a.link_outer {
   #gallery.content .design-wrap .design-txt .design-txt-description {
     margin: 0 0 15px;
   }
-  #gallery.content .design-wrap .design-txt .design-txt-info, #gallery.content .design-wrap .design-txt .design-txt-skill {
+  #gallery.content .design-wrap .design-txt .design-txt-info,
+  #gallery.content .design-wrap .design-txt .design-txt-skill {
     text-align: center;
     font-size: 1.3rem;
     margin: 0 0 15px;
@@ -1567,7 +1602,7 @@ a.link_outer {
     width: 101%;
   }
   .item {
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     max-height: 300px;
     min-height: 300px;
   }
@@ -1712,16 +1747,17 @@ a.link_outer {
     width: 100%;
     height: auto;
   }
-  #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field input, #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field textarea {
+  #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field input,
+  #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field textarea {
     width: 100%;
     padding: 10px;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
-    border: #FFFFFF 1px solid;
+    border: #ffffff 1px solid;
     border-radius: 6px;
-    background-color: #F8F8F8;
-    -webkit-box-shadow: inset 2px 2px 2px #D4D6D9, inset -2px -2px 2px #FFFFFF;
-            box-shadow: inset 2px 2px 2px #D4D6D9, inset -2px -2px 2px #FFFFFF;
+    background-color: #f8f8f8;
+    -webkit-box-shadow: inset 2px 2px 2px #d4d6d9, inset -2px -2px 2px #ffffff;
+            box-shadow: inset 2px 2px 2px #d4d6d9, inset -2px -2px 2px #ffffff;
   }
   #gallery .contact-container .contact_form .contact_list .contact_list-item .contact_list-box .contact_list-field select {
     width: 25%;
@@ -1740,12 +1776,12 @@ a.link_outer {
     padding: 15px 0;
     border: #000000 2px solid;
     border-radius: 30px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     cursor: pointer;
     font-size: 1.5rem;
   }
   #gallery .contact-container .contact_form #submit_button #submit:disabled {
-    border: #BDBDBD 2px solid;
+    border: #bdbdbd 2px solid;
   }
   #gallery .contact-container .contact_form #submit_button_last {
     text-align: center;
@@ -1756,7 +1792,7 @@ a.link_outer {
     padding: 15px 0;
     border: #000000 2px solid;
     border-radius: 30px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     cursor: pointer;
     font-size: 1.5rem;
   }
@@ -1765,12 +1801,12 @@ a.link_outer {
     padding: 15px 0;
     border: #000000 2px solid;
     border-radius: 30px;
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     cursor: pointer;
     font-size: 1.5rem;
   }
   .item {
-    background-color: #FFFFFF;
+    background-color: #ffffff;
     max-height: 300px;
     min-height: 300px;
   }

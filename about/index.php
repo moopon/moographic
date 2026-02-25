@@ -37,7 +37,7 @@
 		<div class="about-box-txt">
 			<p class="content-txt">ムーグラフィックは、東京を中心に活動しているイラストレーターです。<br>アメリカンレトロスタイルや日本の漫画などに強い影響を受けた、ポップで明るいタッチのスタイルが特徴です。</p>
 			
-			<p class="content-txt">千葉県出身。現在は東京都墨田区在住。<br>多摩美術大学美術学部グラフィックデザイン学科卒。複数のデザイン会社、ウェブ制作会社を経てフリーランスとして独立。<br><a href="https://iratsu.com/u1317/" target="_blank">イラストレーターズ通信</a>会員。</p>
+			<p class="content-txt">千葉県出身。現在は東京都江東区在住。<br>多摩美術大学美術学部グラフィックデザイン学科卒。複数のデザイン会社、ウェブ制作会社を経てフリーランスとして独立。<br><a href="https://iratsu.com/u1317/" target="_blank">イラストレーターズ通信</a>会員。</p>
 
 			<p class="content-txt en">Moographic is a freelance illustrator living and working in Tokyo,Japan.<br>
 		I graduated from the Department of Graphic Design, Faculty of Fine Arts, Tama Art University.<br>My illustration is inspired by retro advertisements and comics.</p>
@@ -49,7 +49,7 @@
 				</tr>
 				<tr>
 					<th class="profile-table-heading">所在地：</th>
-					<td class="profile-table-txt">東京都墨田区</td>
+					<td class="profile-table-txt">東京都江東区</td>
 				</tr>
 				<tr>
 					<th class="profile-table-heading">事業内容：</th>
@@ -57,7 +57,7 @@
 				</tr>
 				<tr>
 					<th class="profile-table-heading">主な仕事履歴：</th>
-					<td class="profile-table-txt">学研塾ホールディングス / 学研教育みらい / 学悠出版 / 朝日学生新聞社　　等</td>
+					<td class="profile-table-txt">Gakken / 株式会社シュガー / 学研塾ホールディングス / 学研教育みらい / 学悠出版 / 朝日学生新聞社　　等</td>
 				</tr>
 				<tr>
 					<th class="profile-table-heading">お問い合わせ：</th>

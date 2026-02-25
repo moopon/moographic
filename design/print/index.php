@@ -33,9 +33,44 @@
 	</div><!--/.breadcrumb-->
 	
 	<h2 class="content-title">Print</h2>
+
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/dtp/ecohai_ecommerce_03.png" alt="「イーコマースフェア東京2026」出展ブースデザイン / 株式会社エコ配"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">展示会ブース用デザイン / 株式会社エコ配</h3>
+			<p class="design-txt-description">宅配便事業を運営している株式会社エコ配様のイーコマースフェア東京2026」出展ブースデザインを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator / Adobe Photoshop</p>
+		</div>
+	</div><!--/.design-wrap-->
+
+	<div class="design-wrap">
+		<div class="design-pic02"><img src="/img/design/dtp/ecohai_flyer_omote.png" alt="サービス案内チラシ / 株式会社エコ配"><img src="/img/design/dtp/ecohai_flyer_ura.png" alt="サービス案内チラシ / 株式会社エコ配"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">サービス案内チラシ / 株式会社エコ配</h3>
+			<p class="design-txt-description">宅配便事業を運営している株式会社エコ配様のサービス案内チラシを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator / Adobe Photoshop</p>
+		</div>
+	</div><!--/.design-wrap-->		
+
+	<div class="design-wrap">
+		<div class="design-pic02"><img src="/img/design/dtp/cbc_flyer-express_omote.png" alt="サービス案内チラシ / CBcloud株式会社"><img src="/img/design/dtp/cbc_flyer-express_ura.png" alt="サービス案内チラシ / CBcloud株式会社"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">サービス案内チラシ / CBcloud株式会社</h3>
+			<p class="design-txt-description">配送プラットフォームサービスを開発・運営しているCBcloud株式会社様の「ピックゴーエクスプレス」チラシを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator / Adobe Photoshop</p>
+		</div>
+	</div><!--/.design-wrap-->	
 	
-	
-	
+	<div class="design-wrap">
+		<div class="design-pic02"><img src="/img/design/dtp/hbs_franchise_02.png" alt="「第42回 フランチャイズ・ショー2025」出展ブースデザイン / 株式会社HIROTSUバイオサイエンス"><img src="/img/design/dtp/hbs_franchise_03.png" alt="「第42回 フランチャイズ・ショー2025」出展ブースデザイン / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-pic"><img src="/img/design/dtp/hbs_franchise_01.png" alt="「第42回 フランチャイズ・ショー2025」出展ブースデザイン / 株式会社HIROTSUバイオサイエンス"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">展示会ブース用デザイン / 株式会社HIROTSUバイオサイエンス</h3>
+			<p class="design-txt-description">千代田区の線虫がん検査の研究・開発・販売をしている株式会社HIROTSUバイオサイエンス様の「第42回 フランチャイズ・ショー2025」出展ブースデザインを制作させていただきました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Illustrator / Adobe Photoshop</p>
+		</div>
+	</div><!--/.design-wrap-->
+
 	<div class="design-wrap">
 		<div class="design-pic"><img src="/img/design/dtp/hbs_animal-pamphlet-omote.png" alt="サービス案内リーフレット / 株式会社HIROTSUバイオサイエンス"></div>
 		<div class="design-pic"><img src="/img/design/dtp/hbs_animal-pamphlet-ura.png" alt="サービス案内リーフレット / 株式会社HIROTSUバイオサイエンス"></div>

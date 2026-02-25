@@ -40,8 +40,8 @@
 			<p class="desin-txt">ウェブデザイン、HTML・CSS・javascriptコーディングの制作事例です。</p>
 		</div><!--/.design-box-->
 		<div class="design-box">
-			<h3 class="design-title">DTP</h3>
-			<div class="design-bnr"><a href="./dtp/"><img src="/img/design/bnr_dtp.png" alt="DTP"></a></div>
+			<h3 class="design-title">Print</h3>
+			<div class="design-bnr"><a href="./print/"><img src="/img/design/bnr_dtp.png" alt="DTP"></a></div>
 			<p class="desin-txt">チラシ、パンフレットなどの紙媒体の制作事例です。</p>
 		</div><!--/.design-box-->
 		<div class="design-box">

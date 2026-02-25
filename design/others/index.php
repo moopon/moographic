@@ -35,6 +35,33 @@
 	<h2 class="content-title">Others</h2>
 	
 	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/picgo_03.png" alt="広告用バナー / CBcloud株式会社"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">広告用バナー / CBcloud株式会社</h3>
+			<p class="design-txt-description">配送プラットフォームサービスを開発・運営しているCBcloud株式会社様の広告用バナーを作成しました。</p>
+			<p class="design-txt-info">使用アプリケーション：Adobe Photoshop / Adobe Illustrator</p>
+		</div>
+	</div><!--/.design-wrap-->
+
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/picgo_02.png" alt="広告用バナー / CBcloud株式会社"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">広告用バナー / CBcloud株式会社</h3>
+			<p class="design-txt-description">配送プラットフォームサービスを開発・運営しているCBcloud株式会社様の広告用バナーを作成しました。</p>
+			<p class="design-txt-info">使用アプリケーション：Figma</p>
+		</div>
+	</div><!--/.design-wrap-->
+
+	<div class="design-wrap">
+		<div class="design-pic"><img src="/img/design/others/picgo_01.png" alt="広告用バナー / CBcloud株式会社"></div>
+		<div class="design-txt">
+			<h3 class="design-txt-heading">広告用バナー / CBcloud株式会社</h3>
+			<p class="design-txt-description">配送プラットフォームサービスを開発・運営しているCBcloud株式会社様の広告用バナーを作成しました。</p>
+			<p class="design-txt-info">使用アプリケーション：Figma</p>
+		</div>
+	</div><!--/.design-wrap-->
+
+	<div class="design-wrap">
 		<div class="design-pic"><img src="/img/design/others/others_hbio-newKV.png" alt="公式サイトメインビジュアルです / 株式会社HIROTSUバイオサイエンス"></div>
 		<div class="design-txt">
 			<h3 class="design-txt-heading">ウェブサービスキャンペーンバナー / 株式会社HIROTSUバイオサイエンス</h3>
